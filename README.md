@@ -1,4 +1,4 @@
-# Mnist_Fashion
+# MNIST_Fashion
 
 ```
 Mnist Fashion Dataset looks like this.
